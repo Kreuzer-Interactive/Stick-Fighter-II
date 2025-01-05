@@ -1,0 +1,201 @@
+                The Official Stick Fighter Strategy Guide
+
+1 You move's statistics and how to use them      
+2 General strategies
+3 Dosiers on all the Stick Fighters
+4 Cheat Codes
+
+I.      YOUR MOVES (AND THE ENEMIES)
+
+        Standing (Keypad)              ³          Ducking(Key pad)
+                                       ³
+         Punch     Jump     High block ³  Punch    Stand     Block
+                                       ³
+         Backup    Shove    Advance    ³  Backup     NA      Advance
+                                       ³
+         Lowkick   Duck     Lowblock   ³  Kick     Uppercut    NA
+                                       ³
+         <+> High Kick                 ³
+
+          Jumping(Keypad)
+
+         Elbow     NA       NA
+d
+         Back/Slow NA       Forwards
+
+         Kick      NA       NA
+
+Notes- When you block a move you character will not flinch, and blood will
+       not fly. In addition he will take 1/4 damage
+       Just normal jump acts as jump block (you take 1/2 damage)
+
+       Ranges without P are just comparative esimations                                               
+             ---Standing----
+Backup  Frames 20(one way(means after frames are shown, they are not shown 
+        again in reverse order )) Damage NA
+        Range -18P (in pixels)
+Advance Frames 20(one way) Damage NA
+        Range 18P
+Jump -  Frames 6 Damage NA       
+        Duck    Frames 12(one way) Damage NA
+        Range NA        
+Low Block- Frames 10 Damage 1/4 on succesful block
+        Range NA
+Block-  Frames 10 Damage 1/4 on succesful block
+Shove-  Frames 14 Damage 2
+        Range 2.4        To block-High 
+Punch- Frames(speed lower the better) 14 Damage 3
+       Range  1.8        To block-High
+Low kick Frames 16 Damage 3
+        Range 2          To block-Low
+High Kick Frames 18 Damage 6
+        Range 1.7        To block-Low
+        
+              ---Ducking----
+Stand   Frames 12(one way) Damage NA
+Advance Frames 20(one way)
+        Range 10P
+Backup  Frames 20(one way)
+        Range -10P
+Block   Frames 10 Damage 1/4
+Kick    Frames 18 Damage 4
+        Range 1.4      To block-low
+Punch   Frames 14 Damage 2
+        Range 2      To block-low
+Uppercut Frames 20 Damage 6
+        Range 1.2    To block-high
+
+              ---Jumping---
+(While starting jump)
+Forwards  Range 18
+Backwards Range 10
+(In air)
+Slow-(4) Slow forwards progress
+Kick    Frames 14 Damage 4
+        Range +1.8
+Elbow   Frames 14 Damage 10
+        Range +1
+
+II. GENERAL SUGGESTIONS
+-Familiarize yourself with the keys on the early opponents. Be able to the 
+move you want when you want to.
+-Try alternating by blocking a move, then attacking.
+-Try not to block until your opponent has actually started his move, because
+he will pick a move that will get around your block.
+-Keep your enemy guessing, and keep moving at all times.
+-The flying elbow is useful to smack the enemy when he's jumping
+and even if it is blocked it still will cause 2.5 damage
+-Even though ducking is easier at first because it only has one block,
+standing is a more powerful position so get comfortable in it too.
+-Jumping can be very useful, but it takes time to get into the air so
+treat it as you would your other moves. (Ex. Block, then jump)
+-Always try to smack the enemy when he is getting up. High Kick gives
+you the most damage and is easily possible
+-Use the Sensi to get to know your next opponent before you fight him and
+risk a loss
+-Jump kick is generally the best way to get close to an opponent
+-When your opponent is far down, duck punch is the safest move to send him
+to his grave without too much risk. Shove isn't bad either.
+
+Cheap Trick- You can copy to another directory your save game, then copy it 
+back to Stick Fighter if you lose a fight and do not want to lose two ranks.
+
+III. YOUR COMPETITORS
+
+Skill-4 Worst to 0 best
+Damage-Multiplies damage (given in Chpt I. The Moves) of every hit by #
+Life points-Number of life points (Bar Shows 90 and you have 90)
+        
+    Guy
+No offense but if you can't beat this guy (and also no pun intened) without
+help, you have no chances as a Stick Fighter
+        Damage 1     Life 80  Skill 4
+        Special moves Shin Kick Dam 6 Range 1.2
+
+    Arbutu
+        Damage .9    Life 82  Skill 3
+        Special moves Inivisibility (You can't see him but you can hit him)
+                      Flame kick (Damage multiplied by 1.4)
+    Pierre
+        Damage  1    Life 85  Skill 3
+        Special moves Block Pull (On standing low blocks he cracks your arm)
+                      Dam 4 Range NA
+                      Swing kick (Ducking) Damage 6 Range 2
+    Yuri
+        Damage 1.3   Life 90  Skill 4
+        Special moves Arm Swing Dam 10 Range 1.8
+                      Trip (Ducking) Dam 6 Range 2
+    Pascal
+        Damage 1     Life 90  Skill 2
+        Special moves Fireball (Can't be blocked only jumped) 4 Dam
+                      Flame kick (Damage multiplied by 1.4)  
+    Kewan
+        Damage 1.4   Life 105 Skill 3
+        Special moves Hold and Toss (If you stand to close when he's also 
+                      standing) Dam 6
+                      Trip (Ducking) Dam 6 Range 2          
+    Thai Min
+        Damage .8    Life 90  Skill 1
+        Special moves Laying Kick (When he's fallen and you're close) Dam 4
+                      Swing kick (Ducking) Damage 6 Range 2              
+                      Shin Kick Dam 6 Range 1.2       
+                      Block Pull (On standing low blocks he cracks your arm)
+                      Dam 4 Range NA
+                      
+    Monty
+        Damage 1     Life 95  Skill 2
+        Special moves Lightning Dam 4 Holds up his hands and you can't block.
+                      100 hand stab Dam 6 Range 2 (standing) you(stand/duck)
+
+    Raul
+        Damage  1    Life 105 Skill 1
+        Special moves Freeze Holds up his hands and your frozen for 24 frames
+                      Extend punch Range 2.5 Dam 3
+    Hochi
+        Damage 1.1   Life 104 Skill 1
+        Special moves Sheild- You take 1/2 the damage he does when he's hit 
+                      Extend punch Range 2.5 Dam 3      
+    Indiru
+        Damage 1     Life 90  Skill 0
+        Special moves Inivisibility (You can't see him but you can hit him)   
+                      Teleport (He appears on the opposite side)
+    Lucifer
+        Damage 1.1   Life 105 Skill 0
+        Special moves Inivisibility (You can't see him but you can hit him)  
+                      Arm throw (Second arm comes flying) 5 dam 
+                      can be high-blocked
+    Locoth
+        Damage 1.3   Life 115 Skill 0
+        Special moves Beet- If you get to close and your both standing he
+                      will pick you up and throw you (6 dam) but not before
+                      hitting you five times (5 dam)
+                      Sheild- You take 1/2 the damage he does when he's hit  
+                      Trip (Ducking) Dam 6 Range 2                
+                Note- Don't stand close when he's standing
+    Larry
+        Damage 1.2   Life 100 Skill 0
+        Special moves-All
+        Note- He loses a random special move every second time you hit him
+        Try some duck punches (if he's ducking) or some lowkicks or shoves
+        if he's standing to kill a few of his special moves
+
+
+VI.  CHEAT CODES
+Warning- Do not read Further unless you want the power to cheat an make the
+game so easy that its not any fun anymore. Now thats a lot of power. In the
+wrong hands it could be deadly. (Well, maybe not)
+
+Cheats- Enter at Stick Fighter Logo Screen 
+<down> <up> <left> <left> <a> <right> <down>
+(You should here a beep if you entered it properly)
+
+Codes-  
+        B-BLOOD Galore (May cause severe slow down) on/off toggle
+        G-Switch characters(GUYS) (appearance only)
+        H-HARM enemy 10 Damage
+        E-make enemy EASIER (The more you hit it the easier he'll get)
+        T-TAKE away enemies Special Moves
+        S-turn on invincible SHIELD on/off toggle
+        F-triple your damage with FLAME on/off toggle
+        W-WARP levels (14 last, 1 first)
+Use lower case

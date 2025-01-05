@@ -1,0 +1,36 @@
+        To run this version of Stick Fighter II you will need a very fast
+computer (A 486 DX 66mhz should work fine), .5 megs of hard disk space, and
+256k of free conventional RAM. The new version will be nearly twice as fast
+and will have an option to make the animation 15 frames per second instead
+of 30 fps to further double the speed. 
+
+       The name you type in must be a valid dos file name (up to 8 letters).
+If that name has already been used, the game will load up to that last place
+the fighter under that name left off. (This is the equivelent of loading a
+game.) After each fight your game will automatically be saved. If you win
+a fight you will move up one rank, but if you lose you will move down 2.
+When you fight the Sensi, he will take on the attributes of the next fighter
+you have to face, but you will neither gain nor lose rank fighting him.
+There are 14 World Warriors to challenge your skill (15 including yourself).
+You can forfeit during a match by hitting q twice. 
+         
+
+         YOUR MOVES (AND THE ENEMIES)
+
+        Standing (Keypad)              ³          Ducking(Key pad)
+                                       ³
+         Punch     Jump     High block ³  Punch    Stand     Block
+                                       ³
+         Backup    Shove    Advance    ³  Backup     NA      Advance
+                                       ³
+         Lowkick   Duck     Lowblock   ³  Kick     Uppercut    NA
+                                       ³
+         <+> High Kick                 ³
+
+          Jumping(Keypad)
+
+         Elbow     NA       NA
+
+         Back/Slow NA       Forwards
+
+         Kick      NA       NA
